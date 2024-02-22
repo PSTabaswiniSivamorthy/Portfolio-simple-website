@@ -1,0 +1,116 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.section-one {
+  background-color: rgb(16, 69, 109);
+  color: white;
+  padding: 20px;
+}
+body {
+  font-family: "Tinos", serif;
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.container {
+  padding: 30px;
+}
+.section-one__contact {
+  background-color: #1ca9c9;
+  color: white;
+  text-decoration: none;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: inline-block;
+  margin-top: 20px;
+}
+.section-one__contact:hover {
+  cursor: pointer;
+  background-color: #a569bd;
+}
+.section-one__name {
+  font-size: 60px;
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.section-one__role {
+  font-size: 30px;
+  margin-top: 3px;
+}
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+  margin-top: 20px;
+}
+.section-two__desc,
+.section-three__desc,
+.section-four__desc,
+.section-five__desc {
+  margin-top: 15px;
+}
+.section-four__desc1,
+.section-four__desc2 {
+  margin-top: 5px;
+}
+.section-five {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+}
+.section-five__title a {
+  background-color: rgb(16, 69, 109);
+  color: white;
+  text-decoration: none;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-decoration: none;
+  margin-left: 10px;
+}
+.section-three li {
+  list-style: none;
+}
+.section-three {
+  display: inline-block;
+  height: 200px;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #edeae0;
+  vertical-align: top;
+}
+
+.section-four {
+  padding: 20px;
+  background-color: #fff5ee;
+  display: inline-block;
+  height: 200px;
+
+  border-radius: 10px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.section-two__desc.section-three ul {
+  font-size: 18px;
+}
+.section-four p {
+  font-size: 18px;
+  margin-top: 2px;
+}
+.section-four__desctitle {
+  margin-top: 5px;
+}
+.section-one__contact:hover {
+  cursor: pointer;
+  background-color: #a569bd;
+}
+.lin:hover {
+  cursor: pointer;
+  background-color: #a569bd;
+}
